@@ -187,7 +187,9 @@ const styles = StyleSheet.create({
     left: "50%",
     backgroundColor: "pink",
 
-    transform: [{ translateX: -25 }, { translateY: -25 }], // Center the circle
+    
+
+    transform: [{ translateX: -25 }, { translateY: -25 }], 
   },
   buttonText: {
     color: "#fff",
